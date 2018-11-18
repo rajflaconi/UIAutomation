@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 95.726 sec <<< FAILURE! - in TestSuite
+buyPerfumeTestFailureScreenshot(tests.BuyPerfumeTest)  Time elapsed: 0.505 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.BuyPerfumeTest.buyPerfumeTestFailureScreenshot(BuyPerfumeTest.java:47)
+
