@@ -10,6 +10,8 @@ import pages.ParfumPage;
 import pages.SearchResults;
 import utility.PropertyFileReader;
 
+//user searches for a product Dior ,adds to cart and verfies whether product is added to cart successfully
+
 public class BuyPerfumeTest extends BaseTest {
 
 	
