@@ -23,8 +23,8 @@ Framework  Structure & details :
 Technical constraints:
 
 1. Multiple Browser support . The code supports Chrome, Firefox and IE Browsers
-2. Run in windows and Linux(only for chrome) environments
-3. Test suite is runnable from CLI.
+2. Run in windows and Linux(only for chrome) platforms
+3. Test suite is runnable from CLI and be integrated with CI/CD tools such as Jenkins
 4. Nice customised Html Report support with Extent plugin
 5. Screenshot of web page on test failure
 6. Retry mechanism by implementing Retry Listener ( whenever there is failure in tests, it runs again to confirm the failure)
