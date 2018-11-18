@@ -16,7 +16,7 @@ Framework  Structure & details :
 2. src/main/java contains basesetup(Base), utility(screenshot utility and Property files manager and pages package(java class for every web page)
 3. src/main/resources contains testdata.properties and executuables or drivers for browsers
 4. testng.xml for triggering test suite with retry mechanism and listeners
-5. TestReport folder for storing Extent html reports ( please see sample report inside the folder)
+5. TestReport folder for storing Extent html reports ( please see nice sample report inside the folder:))
 6. FailedTestsScreenshots folder for storing captured screenshots
 7. pom.xml for dependency management and surefire plugin to execute tests
 
