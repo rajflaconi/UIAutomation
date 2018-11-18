@@ -1,0 +1,9 @@
+utility\ScreenshotHelper.class
+pages\CartBasket.class
+utility\PropertyFileReader.class
+pages\AddtoCart.class
+baseSetup\DriverManager.class
+pages\SearchResults.class
+pages\Homepage.class
+pages\ParfumPage.class
+baseSetup\Base.class
